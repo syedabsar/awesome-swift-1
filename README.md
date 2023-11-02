@@ -993,3 +993,5 @@ A curated list of awesome Swift frameworks, libraries and software.
 * [llvm-swift/LLVMSwift](https://github.com/llvm-swift/LLVMSwift) - A Swift wrapper for the LLVM C API (version 11.0)
 * [Cosmo/Clippy](https://github.com/Cosmo/Clippy) - 📎💬🎉 Clippy from Microsoft Office is back and runs on macOS! Written in Swift.
 * [utahiosmac/Marshal](https://github.com/utahiosmac/Marshal) - Marshaling the typeless wild west of [String: Any]
+* [Json4Swift](https://json4swift.com) - An online tool that generates Swift models from JSON for streamlined iOS development, alongside providing educational resources to tackle common conversion pitfalls.
+
